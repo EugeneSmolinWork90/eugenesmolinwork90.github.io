@@ -1,0 +1,1 @@
+import o from"./BBymS5EN.js";import{_ as t,k as n,w as c,o as s,a as _}from"./CFLejP-_.js";import"./BCCLETBc.js";const r={},a=_("h1",null,"Terms of Use",-1);function m(f,i){const e=o;return s(),n(e,null,{default:c(()=>[a]),_:1})}const d=t(r,[["render",m]]);export{d as default};

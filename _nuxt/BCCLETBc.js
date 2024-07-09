@@ -1,0 +1,1 @@
+import{_ as n,o,c as t,l as s}from"./CFLejP-_.js";const c={},a={class:"container"};function r(e,_){return o(),t("div",a,[s(e.$slots,"default",{},void 0)])}const l=n(c,[["render",r],["__scopeId","data-v-24120722"]]);export{l as default};
