@@ -1,0 +1,1 @@
+const t="vpnly.com",s="92817346.xyz",n=`https://${t}`,p=`https://${s}`,e={ANDROID:"https://play.google.com/store/apps/details?id=com.freevpnplanet",IOS:"https://apps.apple.com/ru/app/free-vpn-planet/id1410235921"},o={WINDOWS:`${p}/win/planetvpn.exe`,OSX:`${p}/osx/planetvpn.dmg`};export{n as B,o as D,e as P};
