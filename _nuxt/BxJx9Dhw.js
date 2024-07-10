@@ -1,1 +1,0 @@
-const t="eugenesmolinwork90.github.io",s="92817346.xyz",e=`https://${t}`,p=`https://${s}`,n={ANDROID:"https://play.google.com/store/apps/details?id=com.freevpnplanet",IOS:"https://apps.apple.com/ru/app/free-vpn-planet/id1410235921"},o={WINDOWS:`${p}/win/planetvpn.exe`,OSX:`${p}/osx/planetvpn.dmg`};export{e as B,o as D,n as P};
