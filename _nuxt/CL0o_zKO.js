@@ -1,1 +1,0 @@
-import{_ as n,o,c as t,k as s}from"./5UEVMSY5.js";const c={},a={class:"container"};function r(e,_){return o(),t("div",a,[s(e.$slots,"default",{},void 0)])}const f=n(c,[["render",r],["__scopeId","data-v-24120722"]]);export{f as default};

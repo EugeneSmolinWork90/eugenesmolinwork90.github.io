@@ -1,1 +1,0 @@
-import t from"./BSOM1x7M.js";import{_ as c,j as e,o as n,w as _,a as r}from"./5UEVMSY5.js";import"./CL0o_zKO.js";const a={},s=r("h1",null,"Privacy Policy",-1);function i(l,p){const o=t;return n(),e(o,null,{default:_(()=>[s]),_:1})}const d=c(a,[["render",i]]);export{d as default};
